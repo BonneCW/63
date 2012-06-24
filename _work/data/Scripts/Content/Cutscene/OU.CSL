@@ -1,0 +1,170 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 13.12.2009 23:53:16
+user Bonne
+END
+objects 40       
+END
+
+[% zCCSLib 0 0]
+	NumOfItems=int:13
+	[% zCCSBlock 0 1]
+		blockName=string:DIA_Liesel_15_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 2]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 3]
+				subType=enum:0
+				text=string:Määäh!
+				name=string:DIA_LIESEL_15_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 4]
+		blockName=string:DIA_Wisp_15_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 5]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 6]
+				subType=enum:0
+				text=string:(summ)
+				name=string:DIA_WISP_15_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 7]
+		blockName=string:Info_Mod_Ausbilder_Kreis02_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 8]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 9]
+				subType=enum:0
+				text=string:Ich kann dich jetzt den zweiten Kreis der Magie lehren.
+				name=string:INFO_MOD_AUSBILDER_KREIS02_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 10]
+		blockName=string:Info_Mod_Ausbilder_Kreis03_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 11]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 12]
+				subType=enum:0
+				text=string:Ich kann dich jetzt den dritten Kreis der Magie lehren.
+				name=string:INFO_MOD_AUSBILDER_KREIS03_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 13]
+		blockName=string:Info_Mod_Ausbilder_Kreis04_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 14]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 15]
+				subType=enum:0
+				text=string:Ich kann dich jetzt den vierten Kreis der Magie lehren.
+				name=string:INFO_MOD_AUSBILDER_KREIS04_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 16]
+		blockName=string:Info_Mod_Ausbilder_Kreis05_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 17]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 18]
+				subType=enum:0
+				text=string:Ich kann dich jetzt den fünften Kreis der Magie lehren.
+				name=string:INFO_MOD_AUSBILDER_KREIS05_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 19]
+		blockName=string:Info_Mod_Ausbilder_Kreis06_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 20]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 21]
+				subType=enum:0
+				text=string:Ich kann dich jetzt den sechsten Kreis der Magie lehren.
+				name=string:INFO_MOD_AUSBILDER_KREIS06_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 22]
+		blockName=string:Info_Mod_Ausstatter_MagicWeapon_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 23]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 24]
+				subType=enum:0
+				text=string:Ich habe eine ganz besondere Waffe für dich.
+				name=string:INFO_MOD_AUSSTATTER_MAGICWEAPON_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 25]
+		blockName=string:Info_Mod_Ausstatter_Ruestung02_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 26]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 27]
+				subType=enum:0
+				text=string:Ich habe hier eine neue Rüstung für dich.
+				name=string:INFO_MOD_AUSSTATTER_RUESTUNG02_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 28]
+		blockName=string:Info_Mod_Ausstatter_Ruestung03_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 29]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 30]
+				subType=enum:0
+				text=string:Ich habe hier eine ganz besondere Rüstung für dich.
+				name=string:INFO_MOD_AUSSTATTER_RUESTUNG03_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 31]
+		blockName=string:Info_Mod_Ausstatter_Ruestung03_12_01
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 32]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 33]
+				subType=enum:0
+				text=string:Sollte dir einiges an Schutz bieten.
+				name=string:INFO_MOD_AUSSTATTER_RUESTUNG03_12_01.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 34]
+		blockName=string:Info_Mod_Ausstatter_NeueWaffe_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 35]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 36]
+				subType=enum:0
+				text=string:Ich hab eine neue Waffe für dich!
+				name=string:Info_Mod_Ausstatter_NeueWaffe_12_00.WAV
+			[]
+		[]
+	[]
+	[% zCCSBlock 0 37]
+		blockName=string:Info_Mod_Ausstatter_NeuerBogen_12_00
+		numOfBlocks=int:1
+		subBlock0=float:0
+		[% zCCSAtomicBlock 0 38]
+			[% oCMsgConversation:oCNpcMessage:zCEventMessage 0 39]
+				subType=enum:0
+				text=string:Ich hab einen neuen Bogen für dich!
+				name=string:Info_Mod_Ausstatter_NeuerBogen_12_00.WAV
+			[]
+		[]
+	[]
+[]
